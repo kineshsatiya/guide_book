@@ -4,6 +4,7 @@ These notes are taken from serlet specification document and serves as quick loo
 - [Servlet speicifcation]([http://download.oracle.com/otn-pub/jcp/servlet-3.0-fr-eval-oth-JSpec/servlet-3_0-final-spec.pdf?AuthParam=1474584492_e4c067fb0eb1dd1c6b4acd0fccd4ef0d)
 - [Tomcat Architecture 7.0](http://tomcat.apache.org/tomcat-7.0-doc/architecture/)
 - [Tomcat request flow UML](http://tomcat.apache.org/tomcat-7.0-doc/architecture/requestProcess/request-process.png)
+- [JAX-RS](Java API for restful services) This where annonations for restful services are defined.
 
 ## Overview
 
