@@ -2,11 +2,16 @@
 
 These notes are taken from serlet specification document and serves as quick lookup on important concepts in servlet world.
 - [Servlet speicifcation](http://download.oracle.com/otn-pub/jcp/servlet-3.0-fr-eval-oth-JSpec/servlet-3_0-final-spec.pdf?AuthParam=1474584492_e4c067fb0eb1dd1c6b4acd0fccd4ef0d)
+- [Java EE 7 reference API](https://docs.oracle.com/javaee/7/api/)
 - [Tomcat Architecture 7.0](http://tomcat.apache.org/tomcat-7.0-doc/architecture/)
 - [Tomcat request flow UML](http://tomcat.apache.org/tomcat-7.0-doc/architecture/requestProcess/request-process.png)
 - [JAX-RS](Java API for restful services) This where annonations for restful services are defined.
 
 ## Overview
+ 
+Servlet is a Java Web Component, that specifies on how to communicate in a client server architecture. The most common servlet is HttpServet that uses HTTP protocol to communicate. Servlet class arr compiled into platform independent byte code and are managed by servlet containers. Servlet can contain Java code that embed HTML or JSP where Java code is embedded in HTML. The latter is used more commonly.
+
+Servlets are managed by servlet engines. Servlet engines are also known as web servers. Tomcat is the most popular servlet engine. Servlel container manages the servlet lifecycle.
 
 #### What is Servlet interface?
 A servlet is a JavaTM technology-based Web component, managed by a container,
