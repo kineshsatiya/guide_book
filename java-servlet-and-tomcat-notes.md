@@ -1,4 +1,4 @@
-# Java Servlet Specification 3.0 notes
+# Java Servlet notes
 
 These notes are taken from servlet specification 3.1 document. 
 - [Servlet 3.1 specification](http://download.oracle.com/otndocs/jcp/servlet-3_1-fr-eval-spec/index.html)
