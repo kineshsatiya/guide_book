@@ -1,11 +1,11 @@
 # Java Servlet Specification 3.0 notes
 
-These notes are taken from serlet specification document and serves as quick lookup on important concepts in servlet world.
-- [Servlet speicifcation](http://download.oracle.com/otn-pub/jcp/servlet-3.0-fr-eval-oth-JSpec/servlet-3_0-final-spec.pdf?AuthParam=1474584492_e4c067fb0eb1dd1c6b4acd0fccd4ef0d)
+These notes are taken from servlet specification 3.1 document. 
+- [Servlet 3.1 specification](http://download.oracle.com/otndocs/jcp/servlet-3_1-fr-eval-spec/index.html)
 - [Java EE 7 reference API](https://docs.oracle.com/javaee/7/api/)
 - [Tomcat Architecture 7.0](http://tomcat.apache.org/tomcat-7.0-doc/architecture/)
 - [Tomcat request flow UML](http://tomcat.apache.org/tomcat-7.0-doc/architecture/requestProcess/request-process.png)
-- [JAX-RS](Java API for restful services) This where annonations for restful services are defined.
+- [JAX-RS](http://download.oracle.com/otndocs/jcp/jaxrs-2_0-fr-eval-spec/index.html) JAX-RS is a specification for writing restful web services or RESTful resources. Read the specification for the goals and differences. It is part of JAVA EE and package javax.ws.rs provides the API.
 
 ## Overview
  
